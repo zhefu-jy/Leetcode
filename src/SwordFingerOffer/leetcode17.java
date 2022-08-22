@@ -49,7 +49,6 @@ class Trie {
         return cur.isEnd;
 
     }
-
     /** Returns if there is any word in the trie that starts with the given prefix. */
     public boolean startsWith(String prefix) {
         TrieNode cur=root;
