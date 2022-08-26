@@ -4,10 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/TanXin/leetcode10.java" line="56" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7660e768-6686-4606-8ddc-ce1329ab1120" name="Default Changelist" comment="字符串相关">
+    <list default="true" id="7660e768-6686-4606-8ddc-ce1329ab1120" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/MoNi/leetcode01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/MoNi/leetcode02.class" beforeDir="false" />
     </list>
     <list id="80255572-1457-40c7-8fdb-372b5a27a54f" name="Revert &quot;回溯算法&quot;" comment="Revert &quot;回溯算法&quot;&#10;                            &#10;                            This reverts commit 368f67cd" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,49 +40,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/leetcode22.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/leetcode07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Daily/leetcode03.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/leetcode24.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Daily/leetcode04.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="570">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -92,8 +51,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/leetcode23.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+            <state relative-caret-position="247">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Daily/leetcode05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,6 +74,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DP/leetcode31.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/leetcode32.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -164,9 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dfs/leetcode03.java" />
-        <option value="$PROJECT_DIR$/src/DP/leetcode30.java" />
-        <option value="$PROJECT_DIR$/src/TanXin/leetcode01.java" />
         <option value="$PROJECT_DIR$/src/TanXin/leetcode02.java" />
         <option value="$PROJECT_DIR$/src/TanXin/leetcode03.java" />
         <option value="$PROJECT_DIR$/src/TanXin/leetcode04.java" />
@@ -215,6 +201,9 @@
         <option value="$PROJECT_DIR$/src/Daily/leetcode03.java" />
         <option value="$PROJECT_DIR$/src/SwordFingerOffer/leetcode24.java" />
         <option value="$PROJECT_DIR$/src/Daily/leetcode04.java" />
+        <option value="$PROJECT_DIR$/src/Daily/leetcode05.java" />
+        <option value="$PROJECT_DIR$/src/DP/leetcode31.java" />
+        <option value="$PROJECT_DIR$/src/DP/leetcode32.java" />
       </list>
     </option>
   </component>
@@ -228,10 +217,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
-    <option name="y" value="47" />
+    <option name="x" value="13" />
+    <option name="y" value="67" />
     <option name="width" value="1850" />
-    <option name="height" value="980" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -239,7 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,12 +239,6 @@
               <item name="leecode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leecode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leecode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leecode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Daily" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leecode" type="b2602c69:ProjectViewProjectNode" />
@@ -275,12 +257,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1661334910172" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1661521936419" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -301,20 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.leetcode04">
-    <configuration name="leetcode03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Daily.leetcode03" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.leetcode32">
     <configuration name="leetcode04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Daily.leetcode04" />
       <module name="leecode" />
@@ -328,25 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordFingerOffer.leetcode22" />
+    <configuration name="leetcode05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Daily.leetcode05" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwordFingerOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leetcode23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordFingerOffer.leetcode23" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwordFingerOffer.*" />
+          <option name="PATTERN" value="Daily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,13 +324,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="leetcode31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.leetcode31" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.leetcode32" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode32" />
+        <item itemvalue="Application.leetcode31" />
+        <item itemvalue="Application.leetcode05" />
         <item itemvalue="Application.leetcode04" />
         <item itemvalue="Application.leetcode24" />
-        <item itemvalue="Application.leetcode03" />
-        <item itemvalue="Application.leetcode23" />
-        <item itemvalue="Application.leetcode22" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +440,9 @@
       <workItem from="1661041908885" duration="5481000" />
       <workItem from="1661129523606" duration="6252000" />
       <workItem from="1661213705746" duration="5743000" />
-      <workItem from="1661334525053" duration="248000" />
+      <workItem from="1661334525053" duration="509000" />
+      <workItem from="1661498602124" duration="885000" />
+      <workItem from="1661516717625" duration="4207000" />
     </task>
     <task id="LOCAL-00001" summary="回溯算法">
       <created>1660793527307</created>
@@ -494,14 +479,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661137740306</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="每日一题">
+      <created>1661334986322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661334986323</updated>
+    </task>
+    <task id="LOCAL-00007" summary="剑指offer">
+      <created>1661335027490</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661335027490</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211792000" />
+    <option name="totallyTimeSpent" value="217145000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="469" y="86" width="1480" height="784" extended-state="0" />
+    <frame x="84" y="63" width="1480" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969325" visible="true" weight="0.14978904" />
@@ -513,8 +512,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2315951" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36809817" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23089172" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42834395" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -598,6 +597,7 @@
     <MESSAGE value="回溯算法" />
     <MESSAGE value="字符串相关" />
     <MESSAGE value="剑指offer题目" />
+    <MESSAGE value="每日一题" />
     <MESSAGE value="剑指offer" />
     <option name="LAST_COMMIT_MESSAGE" value="剑指offer" />
   </component>
@@ -868,6 +868,18 @@
           <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DP/leetcode32.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DP/leetcode32.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -891,47 +903,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/tools/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5795">
-          <caret line="339" column="5" selection-start-line="339" selection-start-column="5" selection-end-line="339" selection-end-column="5" />
-          <folding>
-            <element signature="e#19327#19328#0" expanded="true" />
-            <element signature="e#19410#19411#0" expanded="true" />
-            <element signature="e#24331#24332#0" expanded="true" />
-            <element signature="e#24396#24397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/tools/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7562">
-          <caret line="436" selection-start-line="436" selection-end-line="436" />
-          <folding>
-            <element signature="e#15542#15543#0" expanded="true" />
-            <element signature="e#15587#15588#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/tools/jdk1.8.0_191/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="e#1616#1617#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test1/leetcode10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/leetcode03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31">
@@ -1239,17 +1210,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/leetcode23.java">
+    <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/leetcode24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        <state relative-caret-position="1216">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/leetcode30.java">
+    <entry file="file://$PROJECT_DIR$/src/Daily/leetcode04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="418">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/leetcode07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/leetcode23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -1281,23 +1272,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/leetcode24.java">
+    <entry file="file://$PROJECT_DIR$/src/Daily/leetcode05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+        <state relative-caret-position="261">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Daily/leetcode04.java">
+    <entry file="file://$PROJECT_DIR$/src/DP/leetcode30.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/leetcode32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/leetcode31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
         </state>
       </provider>
     </entry>
